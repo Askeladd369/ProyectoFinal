@@ -25,11 +25,11 @@ Creamos un nuevo directorio en webots para nuestro mundo, dentro de el insertare
        
 Una vez posicionado nuestro entorno, dentro del Tree de webots en el nodo WorldInfo modificamos el timestep a 32 e insertamos un nodo damping con valores de 0.5 en el valor lineal y angular, despúes dentro del nodo de nuestro dron cargamos el controlador "ControlerMavic.py" adjunto en este documento. El funcionamiento del codigo es de la siguiente forma:
 
-![Importaciones y manejo de dependencias]()
-![Función de clamp]()
-![Clase Mavic que hereda de Robot]()
-![Método init_de la clase Mavics]()
-![Método set_position de la clase Mavic]()
-![Método move_to_target de la clase Mavic]()
-![OMétodo run de la clase Mavic]()
-![Bloque principal]()
+![Importaciones y manejo de dependencias](https://github.com/Askeladd369/ProyectoFinal/blob/main/1.png)
+![Función de clamp](https://github.com/Askeladd369/ProyectoFinal/blob/main/2.png)
+![Clase Mavic que hereda de Robot](https://github.com/Askeladd369/ProyectoFinal/blob/main/3.png)
+![Método init_de la clase Mavics](https://github.com/Askeladd369/ProyectoFinal/blob/main/4.png)
+![Método set_position de la clase Mavic](https://github.com/Askeladd369/ProyectoFinal/blob/main/5.png)
+![Método move_to_target de la clase Mavic](https://github.com/Askeladd369/ProyectoFinal/blob/main/6.png)
+![OMétodo run de la clase Mavic](https://github.com/Askeladd369/ProyectoFinal/blob/main/7.png)
+![Bloque principal](https://github.com/Askeladd369/ProyectoFinal/blob/main/8.png)
