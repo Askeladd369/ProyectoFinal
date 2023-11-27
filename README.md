@@ -4,6 +4,8 @@ En este proyecto, nos enfocaremos en la programación y simulación de la implem
 # Requerimentos
 Para replicar este proyecto es necesario contar con lo siguiente:
 - Webots Version R2023b
+- Utilizar el nodo DJI maverick pro2 que proporciona webots
 - Controlador del cuadrotor adjunto en este archivo
+  
 
 # Metodologia
