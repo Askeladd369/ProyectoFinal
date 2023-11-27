@@ -23,3 +23,5 @@ Creamos un nuevo directorio en webots para nuestro mundo, dentro de el insertare
        
 ![Objetos Utilizados](https://github.com/Askeladd369/ProyectoFinal/blob/main/hola2.png)
        
+Una vez posicionado nuestro entorno, dentro del Tree de webots en el nodo WorldInfo modificamos el timestep a 32 e insertamos un nodo damping con valores de 0.5 en el valor lineal y angular, despúes dentro del nodo de nuestro dron cargamos el controlador "ControlerMavic.py" adjunto en este documento. El funcionamiento del codigo es de la siguiente forma:
+
