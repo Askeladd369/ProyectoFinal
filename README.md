@@ -21,3 +21,5 @@ Creamos un nuevo directorio en webots para nuestro mundo, dentro de el insertare
     5. Granero
     6. House Bungalow
        
+![Objetos Utilizados](https://github.com/Askeladd369/ProyectoFinal/blob/main/hola2.png)
+       
