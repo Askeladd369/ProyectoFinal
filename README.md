@@ -9,7 +9,7 @@ Para replicar este proyecto es necesario contar con lo siguiente:
   ![DJI NODE WEBOTS](https://github.com/Askeladd369/ProyectoFinal/blob/main/Captura%20de%20pantalla%202023-11-27%20171649.png)
 
 
-# Metodologia
+# Funcionamiento
 Creamos un nuevo directorio en webots para nuestro mundo, dentro de el insertaremos los siguientes nodos
 - Nodo Floor con texura de pasto
 - Nodo DJI mavick pro 2
